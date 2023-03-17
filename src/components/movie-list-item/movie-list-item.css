@@ -57,11 +57,11 @@
     transform: translateX(0px);
 }
 
-.list-group-item.increase .list-group-item-label,
-.list-group-item.increase .list-group-item-input {
+.list-group-item.favourite .list-group-item-label,
+.list-group-item.favourite .list-group-item-input {
    color: yellow;
 }
 
-.list-group-item.increase .btn-star{
+.list-group-item.favourite .btn-star{
     color: floralwhite;
 }
